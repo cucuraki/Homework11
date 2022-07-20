@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework11</string>
+    <string name="type_2_item">Type 2 item</string>
+    <string name="name">name</string>
+    <string name="item1">Item1</string>
+    <string name="item2">Item2</string>
+    <string name="enter_item2_special">Enter item2 special</string>
+    <string name="add_item">add item</string>
+    <string name="update">update</string>
+</resources>
